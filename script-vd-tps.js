@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/tsp-script/vd-script-tps/refs/heads/main/tps-vd.js"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/tsp-script/vd-script-tps/refs/heads/main/vd-tps-1930818827277738297329828398392828739292827392982928393892829283928289382929389293871515289405029272573939392872627272893939.js"))()
