@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/tsp-script/vd-script-tps/refs/heads/main/1.2.21.3.3.2.2.2.3.3.2.2.2.3.3.2.1.2.2.3..4.e.ew.es!aoedi%24akwij%5B%5Daksja%5B%5Dsksjskk%7B%7Drosssyyyy4.e.ew.es4.e.ew.es4.e.ew.es4.e.ew.es4.e.ew.es4.e.ew.es4.e.ew.es4.e.ew.es4.e.ew.es4.e.ew.es4.e.ew.es4.e.ew.es4.e.ew.es4.e.ew.es4.e.ew.es4.e.ew.es4.e.ew.es4.e.ew.es4.e.ew.es4.e.ew.es4.e.ew.es4.e.ew.es4.e.ew.es"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/tsp-script/vd-script-tps/refs/heads/main/VD-V1.3.0.js"))()
